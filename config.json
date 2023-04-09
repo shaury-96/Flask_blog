@@ -1,0 +1,16 @@
+{
+  "params": {
+    "local_server":"True",
+    "local_uri": "mysql://root:@localhost/codingblog",
+    "prod_uri":"mysql://root:@localhost/codingblog",
+    "blog_name": "The Py World",
+    "tag_line": "Solution to every problem",
+    "gmail-user":"your-email@gmail.com",
+    "gmail-password":"gmailpassword",
+    "no_of_posts": 4,
+    "login_image":"login.svg",
+    "admin_user":"john@wick",
+    "admin_password": "man",
+    "upload_location": "C:\\Users\\shaur\\PycharmProjects\\FlaskWeb\\Uploaded_files"
+  }
+}
